@@ -18,7 +18,7 @@
 ## About me
 
 ```dart
-class AhmadMujtaba {
+class Mujtaba {
   final role      = "Software Engineer @ Elytra Studios";
   final location  = "Lahore, Pakistan · working remotely worldwide";
   final focus     = ["Flutter Mobile", "Web Apps", "Backend APIs"];
