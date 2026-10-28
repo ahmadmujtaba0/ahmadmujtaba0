@@ -131,16 +131,6 @@ End-to-end claims product: **Flutter mobile app** for policyholders, **web porta
 </tr>
 </table>
 
-**More:** Medical Appointment App (Flutter, GetX, Firebase) · [Lost & Found](https://github.com/ahmadmujtaba0/lost-and-found) (MERN) · [Flutter To-Do](https://github.com/ahmadmujtaba0/todolist-flutter-getx) · [Flutter Auth Starter](https://github.com/ahmadmujtaba0/Flutter-Signup-Login-Firebase-)
-
-## Experience
-
-| Role | Company | What I did |
-|---|---|---|
-| **Junior Software Engineer** | Elytra Studios · 2026 – present | Mobile, web & backend for client products |
-| **Software Engineering Intern** | Nexentra Solutions · 2026 | Backend APIs, applied AI, n8n recruitment automation |
-| **Flutter Intern** | Nexentra Solutions · 2024 – 2025 | Medical app UI + Firebase integration |
-
 ## GitHub activity
 
 <p align="center">
