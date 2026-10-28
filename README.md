@@ -34,22 +34,30 @@ class AhmadMujtaba {
 |:-:|---|---|
 | 📱 | **Cross-platform mobile apps** (Android + iOS, one codebase) | Flutter · Dart · BLoC / Provider / GetX · Firebase |
 | 🌐 | **Web apps, dashboards & admin panels** | React · Next.js · TypeScript |
-| ⚙️ | **Backends & REST APIs** | Python · FastAPI · Node / Express · Docker |
-| 🗄️ | **Databases & auth** | Firebase Auth / Firestore · MongoDB · SQL · SQLite |
+| ⚙️ | **Backends, REST APIs & cloud deployment** | Python · FastAPI · Node.js · Docker |
+| 🗄️ | **Databases & auth** | PostgreSQL · Supabase · Firebase · MongoDB · SQL · SQLite |
 | 🤖 | **AI features in your product** | LLM integration · RAG chatbots · LangChain · ChromaDB |
 | 🔁 | **Workflow automation** | n8n pipelines · third-party API integrations |
 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <b>Mobile</b><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark" /><br/><br/>
-  <b>Web</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" /><br/><br/>
-  <b>Backend & Data</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,mysql,sqlite&theme=dark" /><br/><br/>
-  <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman&theme=dark" />
+  <b>Mobile & Web Development</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind&theme=dark" /><br/><br/>
+  <b>Backend & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase,supabase,mysql,sqlite,docker&theme=dark" /><br/><br/>
+  <b>AI & Automations</b><br/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-02569B?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-13B9FD?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/><br/><br/>
+  <b>Tools & Practices</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-13B9FD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cross--Platform%20Architecture-2ea44f?style=for-the-badge"/>
 </p>
 
 ## ⭐ Featured work
