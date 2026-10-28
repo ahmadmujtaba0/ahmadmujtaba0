@@ -66,6 +66,60 @@ class AhmadMujtaba {
 <tr>
 <td width="50%" valign="top">
 
+### 🏠 Peek By PropAR
+*B2B AR platform*
+
+AR platform for real estate companies to showcase **3D property models at GPS-anchored locations**. Built the full backend and a **multi-tenant admin dashboard**: listings, agents, media assets, buyer share links, role-based access, and share-link analytics.
+
+`Node.js` `PostgreSQL/PostGIS` `Redis` `Cloudflare R2` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🥽 Coren Clients Dashboard
+*VR safety-training company*
+
+Admin dashboard managing companies, instructors, and participants across **six first-aid VR simulators**: training sessions, quiz results, user creation, bulk imports, and PDF reports.
+
+`React.js` `Firebase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Resume Screening Automation
+*AI hiring pipeline*
+
+Reads job applications from the HR inbox, **evaluates each resume like a technical recruiter**, and scores candidates with a hiring recommendation, saving results automatically to a live candidate database.
+
+`n8n` `LLM` `Docker` `VPS`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ LawAssistAI
+*Bilingual legal assistant app*
+
+English/Urdu mobile app giving grounded answers on Pakistani Property Law & Human Rights. **RAG pipeline with Act/Section citations** on every response, Phi-3 Mini running locally via Ollama, FastAPI on Hugging Face Spaces, Firebase auth + chat history.
+
+`Flutter` `FastAPI` `RAG` `Phi-3 Mini` `Hugging Face`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💚 Youth.ai
+*Health apps at scale*
+
+Multi-flavor Flutter architecture shipping **10+ independently branded iOS/Android health apps from one codebase**. Integrated AI biometric screening SDKs (face, voice, skin).
+
+`Flutter` `Firebase` `AI Screening SDKs`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛡️ Insurance Claim Platform
 *Client project*
 
@@ -74,58 +128,10 @@ End-to-end claims product: **Flutter mobile app** for policyholders, **web porta
 `Flutter` `TypeScript` `React` `REST APIs`
 
 </td>
-<td width="50%" valign="top">
-
-### ⚖️ LawAssistAI
-*Flagship project*
-
-Bilingual (English / Urdu) legal assistant. Flutter app + FastAPI backend + **RAG over Pakistani law** — every answer cites the exact Act & Section.
-
-`Flutter` `FastAPI` `RAG` `ChromaDB` `Firebase`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Medical Appointment App
-
-Patient profiles and appointment booking with real-time Firebase sync.
-
-`Flutter` `GetX` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 [Lost & Found Platform](https://github.com/ahmadmujtaba0/lost-and-found)
-
-Full-stack MERN web app for reporting and claiming lost items.
-
-`MongoDB` `Express` `React` `Node`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ [Flutter To-Do](https://github.com/ahmadmujtaba0/todolist-flutter-getx)
-
-Cloud-synced task manager that persists across sessions.
-
-`Flutter` `GetX` `Firestore`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Flutter Auth Starter](https://github.com/ahmadmujtaba0/Flutter-Signup-Login-Firebase-)
-
-Sign-up / login flow with Firebase Authentication.
-
-`Flutter` `Firebase Auth`
-
-</td>
 </tr>
 </table>
+
+**More:** 🏥 Medical Appointment App (Flutter, GetX, Firebase) · 🔎 [Lost & Found](https://github.com/ahmadmujtaba0/lost-and-found) (MERN) · ✅ [Flutter To-Do](https://github.com/ahmadmujtaba0/todolist-flutter-getx) · 🔐 [Flutter Auth Starter](https://github.com/ahmadmujtaba0/Flutter-Signup-Login-Firebase-)
 
 ## 💼 Experience
 
