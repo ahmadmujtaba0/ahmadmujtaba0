@@ -141,25 +141,21 @@ End-to-end claims product: **Flutter mobile app** for policyholders, **web porta
 | **Software Engineering Intern** | Nexentra Solutions · 2026 | Backend APIs, applied AI, n8n recruitment automation |
 | **Flutter Intern** | Nexentra Solutions · 2024 – 2025 | Medical app UI + Firebase integration |
 
-## GitHub stats
+## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadmujtaba0&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmujtaba0&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ahmadmujtaba0&theme=tokyonight&hide_border=true&border_radius=12&ring=13B9FD&fire=13B9FD&currStreakLabel=13B9FD" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmujtaba0&layout=donut&langs_count=5&hide=rich%20text%20format,c%2B%2B,assembly&theme=tokyonight&hide_border=true&border_radius=12&title_color=13B9FD" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmadmujtaba0&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmujtaba0&theme=tokyo-night&hide_border=true&area=true&radius=12" />
+  <img width="100%" src="https://ghchart.rshah.org/13B9FD/ahmadmujtaba0" alt="Contribution chart" />
 </p>
 
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadmujtaba0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=ahmadmujtaba0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 ## Let's work together
