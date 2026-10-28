@@ -138,10 +138,6 @@ End-to-end claims product: **Flutter mobile app** for policyholders, **web porta
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmujtaba0&layout=donut&langs_count=5&hide=rich%20text%20format,c%2B%2B,assembly&theme=tokyonight&hide_border=true&border_radius=12&title_color=13B9FD" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/13B9FD/ahmadmujtaba0" alt="Contribution chart" />
-</p>
-
 ## Achievements
 
 <p align="center">
