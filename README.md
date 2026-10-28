@@ -34,7 +34,7 @@ class AhmadMujtaba {
 |---|---|
 | **Cross-platform mobile apps** (Android + iOS, one codebase) | Flutter · Dart · BLoC / Provider / GetX · Firebase |
 | **Web apps, dashboards & admin panels** | React · Next.js · TypeScript |
-| **Backends, REST APIs & cloud deployment** | Python · FastAPI · Node.js · Docker |
+| **Backends, REST APIs & cloud deployment** | Python · FastAPI · Node.js · Docker · AWS · Cloudflare R2 storage |
 | **Databases & auth** | PostgreSQL · Supabase · Firebase · MongoDB · SQL · SQLite |
 | **AI features in your product** | LLM integration · RAG chatbots · LangChain · ChromaDB |
 | **Workflow automation** | n8n pipelines · third-party API integrations |
@@ -45,7 +45,7 @@ class AhmadMujtaba {
   <b>Mobile & Web Development</b><br/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind&theme=dark" /><br/><br/>
   <b>Backend & Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase,supabase,mysql,sqlite,docker&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase,supabase,mysql,sqlite,docker,aws,cloudflare&theme=dark" /><br/><br/>
   <b>AI & Automations</b><br/>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/RAG%20Pipelines-02569B?style=for-the-badge&logo=databricks&logoColor=white"/>
