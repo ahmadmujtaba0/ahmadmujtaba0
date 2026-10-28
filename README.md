@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://mujtabaa.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=620&lines=I+build+cross-platform+apps+with+Flutter+%F0%9F%93%B1;Web+apps+%26+dashboards+with+React+%2F+Next.js+%F0%9F%8C%90;Scalable+backends+%26+APIs+with+FastAPI+%E2%9A%99%EF%B8%8F;AI-powered+features+%E2%80%94+RAG%2C+LLMs%2C+automation+%F0%9F%A4%96;Open+to+freelance+%26+contract+work+%E2%9C%85" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=620&lines=I+build+cross-platform+apps+with+Flutter+%F0%9F%93%B1;Web+apps+%26+dashboards+with+React+%2F+Next.js+%F0%9F%8C%90;Scalable+backends+with+Node.js+%26+FastAPI+%E2%9A%99%EF%B8%8F;AI-powered+features+%E2%80%94+RAG%2C+LLMs%2C+automation+%F0%9F%A4%96;Open+to+freelance+%26+contract+work+%E2%9C%85" />
   </a>
 </p>
 
