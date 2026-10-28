@@ -19,7 +19,7 @@
 
 ```dart
 class AhmadMujtaba {
-  final role      = "Junior Software Engineer @ Elytra Studios";
+  final role      = "Software Engineer @ Elytra Studios";
   final location  = "Lahore, Pakistan · working remotely worldwide";
   final focus     = ["Flutter Mobile", "Web Apps", "Backend APIs"];
   final bonus     = ["LLM / RAG integration", "n8n automation"];
