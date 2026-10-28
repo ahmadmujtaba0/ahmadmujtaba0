@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 ```dart
 class AhmadMujtaba {
@@ -28,18 +28,18 @@ class AhmadMujtaba {
 }
 ```
 
-## 🚀 What I can build for you
+## What I can build for you
 
-| | Service | Stack |
-|:-:|---|---|
-| 📱 | **Cross-platform mobile apps** (Android + iOS, one codebase) | Flutter · Dart · BLoC / Provider / GetX · Firebase |
-| 🌐 | **Web apps, dashboards & admin panels** | React · Next.js · TypeScript |
-| ⚙️ | **Backends, REST APIs & cloud deployment** | Python · FastAPI · Node.js · Docker |
-| 🗄️ | **Databases & auth** | PostgreSQL · Supabase · Firebase · MongoDB · SQL · SQLite |
-| 🤖 | **AI features in your product** | LLM integration · RAG chatbots · LangChain · ChromaDB |
-| 🔁 | **Workflow automation** | n8n pipelines · third-party API integrations |
+| Service | Stack |
+|---|---|
+| **Cross-platform mobile apps** (Android + iOS, one codebase) | Flutter · Dart · BLoC / Provider / GetX · Firebase |
+| **Web apps, dashboards & admin panels** | React · Next.js · TypeScript |
+| **Backends, REST APIs & cloud deployment** | Python · FastAPI · Node.js · Docker |
+| **Databases & auth** | PostgreSQL · Supabase · Firebase · MongoDB · SQL · SQLite |
+| **AI features in your product** | LLM integration · RAG chatbots · LangChain · ChromaDB |
+| **Workflow automation** | n8n pipelines · third-party API integrations |
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="center">
   <b>Mobile & Web Development</b><br/>
@@ -60,13 +60,13 @@ class AhmadMujtaba {
   <img src="https://img.shields.io/badge/Cross--Platform%20Architecture-2ea44f?style=for-the-badge"/>
 </p>
 
-## ⭐ Featured work
+## Featured work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Peek By PropAR
+### Peek By PropAR
 *B2B AR platform*
 
 AR platform for real estate companies to showcase **3D property models at GPS-anchored locations**. Built the full backend and a **multi-tenant admin dashboard**: listings, agents, media assets, buyer share links, role-based access, and share-link analytics.
@@ -76,7 +76,7 @@ AR platform for real estate companies to showcase **3D property models at GPS-an
 </td>
 <td width="50%" valign="top">
 
-### 🥽 Coren Clients Dashboard
+### Coren Clients Dashboard
 *VR safety-training company*
 
 Admin dashboard managing companies, instructors, and participants across **six first-aid VR simulators**: training sessions, quiz results, user creation, bulk imports, and PDF reports.
@@ -88,7 +88,7 @@ Admin dashboard managing companies, instructors, and participants across **six f
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Resume Screening Automation
+### Resume Screening Automation
 *AI hiring pipeline*
 
 Reads job applications from the HR inbox, **evaluates each resume like a technical recruiter**, and scores candidates with a hiring recommendation, saving results automatically to a live candidate database.
@@ -98,7 +98,7 @@ Reads job applications from the HR inbox, **evaluates each resume like a technic
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ LawAssistAI
+### LawAssistAI
 *Bilingual legal assistant app*
 
 English/Urdu mobile app giving grounded answers on Pakistani Property Law & Human Rights. **RAG pipeline with Act/Section citations** on every response, Phi-3 Mini running locally via Ollama, FastAPI on Hugging Face Spaces, Firebase auth + chat history.
@@ -110,7 +110,7 @@ English/Urdu mobile app giving grounded answers on Pakistani Property Law & Huma
 <tr>
 <td width="50%" valign="top">
 
-### 💚 Youth.ai
+### Youth.ai
 *Health apps at scale*
 
 Multi-flavor Flutter architecture shipping **10+ independently branded iOS/Android health apps from one codebase**. Integrated AI biometric screening SDKs (face, voice, skin).
@@ -120,7 +120,7 @@ Multi-flavor Flutter architecture shipping **10+ independently branded iOS/Andro
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Insurance Claim Platform
+### Insurance Claim Platform
 *Client project*
 
 End-to-end claims product: **Flutter mobile app** for policyholders, **web portal**, and an **admin dashboard** for claim review.
@@ -131,9 +131,9 @@ End-to-end claims product: **Flutter mobile app** for policyholders, **web porta
 </tr>
 </table>
 
-**More:** 🏥 Medical Appointment App (Flutter, GetX, Firebase) · 🔎 [Lost & Found](https://github.com/ahmadmujtaba0/lost-and-found) (MERN) · ✅ [Flutter To-Do](https://github.com/ahmadmujtaba0/todolist-flutter-getx) · 🔐 [Flutter Auth Starter](https://github.com/ahmadmujtaba0/Flutter-Signup-Login-Firebase-)
+**More:** Medical Appointment App (Flutter, GetX, Firebase) · [Lost & Found](https://github.com/ahmadmujtaba0/lost-and-found) (MERN) · [Flutter To-Do](https://github.com/ahmadmujtaba0/todolist-flutter-getx) · [Flutter Auth Starter](https://github.com/ahmadmujtaba0/Flutter-Signup-Login-Firebase-)
 
-## 💼 Experience
+## Experience
 
 | Role | Company | What I did |
 |---|---|---|
@@ -141,7 +141,7 @@ End-to-end claims product: **Flutter mobile app** for policyholders, **web porta
 | **Software Engineering Intern** | Nexentra Solutions · 2026 | Backend APIs, applied AI, n8n recruitment automation |
 | **Flutter Intern** | Nexentra Solutions · 2024 – 2025 | Medical app UI + Firebase integration |
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadmujtaba0&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
@@ -156,13 +156,13 @@ End-to-end claims product: **Flutter mobile app** for policyholders, **web porta
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmujtaba0&theme=tokyo-night&hide_border=true&area=true&radius=12" />
 </p>
 
-## 🏆 Achievements
+## Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmadmujtaba0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </p>
 
-## 🤝 Let's work together
+## Let's work together
 
 <p align="center">
   Have an app idea, an MVP to launch, or an API to build?<br/>
