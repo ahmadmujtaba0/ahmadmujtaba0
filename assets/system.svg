@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Stack: Flutter, Next.js, React; Node.js, FastAPI; Cloud Functions, AI/RAG, n8n, multi-tenant SaaS; PostgreSQL, MongoDB, Redis, Firebase; AWS, Cloudflare R2, Docker.">
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+@keyframes blink{50%{opacity:0}}.cur{animation:blink 1s step-end infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}.bus{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}.ty{animation:type .7s steps(18) both}
+@keyframes show{from{opacity:0}to{opacity:1}}.sh{animation:show .2s both}</style>
+<rect x=".5" y=".5" width="999" height="439" rx="14" fill="#0B0D10" stroke="#232830"/>
+<text x="32" y="44" class="m" font-size="13" fill="#FFB547">// how I build</text>
+<text x="968" y="44" text-anchor="end" class="m" font-size="12" fill="#7D8590">request → response, end to end</text>
+<text x="32" y="82" class="m" font-size="11" fill="#7D8590" letter-spacing="1.5">CLIENTS</text>
+<line x1="208" y1="122.0" x2="208" y2="254.0" stroke="#FFB547" stroke-opacity=".55" class="bus"/>
+<line x1="196" y1="122.0" x2="208" y2="122.0" stroke="#232830"/>
+<line x1="196" y1="188.0" x2="208" y2="188.0" stroke="#232830"/>
+<line x1="196" y1="254.0" x2="208" y2="254.0" stroke="#232830"/>
+<line x1="208" y1="122.0" x2="221" y2="122.0" stroke="#232830"/>
+<line x1="208" y1="188.0" x2="221" y2="188.0" stroke="#232830"/>
+<line x1="208" y1="254.0" x2="221" y2="254.0" stroke="#232830"/>
+<rect x="32" y="96" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="46" cy="115" r="3" fill="#3DDC97"/>
+<text x="56" y="119" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Flutter</text>
+<text x="46" y="137" class="m" font-size="11" fill="#7D8590">ios · android</text>
+<rect x="32" y="162" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="46" cy="181" r="3" fill="#3DDC97"/>
+<text x="56" y="185" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Next.js / React</text>
+<text x="46" y="203" class="m" font-size="11" fill="#7D8590">web apps · saas</text>
+<rect x="32" y="228" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="46" cy="247" r="3" fill="#3DDC97"/>
+<text x="56" y="251" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Admin dashboards</text>
+<text x="46" y="269" class="m" font-size="11" fill="#7D8590">rbac · analytics</text>
+<text x="221" y="82" class="m" font-size="11" fill="#7D8590" letter-spacing="1.5">API</text>
+<line x1="397" y1="122.0" x2="397" y2="320.0" stroke="#FFB547" stroke-opacity=".55" class="bus"/>
+<line x1="385" y1="122.0" x2="397" y2="122.0" stroke="#232830"/>
+<line x1="385" y1="188.0" x2="397" y2="188.0" stroke="#232830"/>
+<line x1="385" y1="254.0" x2="397" y2="254.0" stroke="#232830"/>
+<line x1="397" y1="122.0" x2="410" y2="122.0" stroke="#232830"/>
+<line x1="397" y1="188.0" x2="410" y2="188.0" stroke="#232830"/>
+<line x1="397" y1="254.0" x2="410" y2="254.0" stroke="#232830"/>
+<line x1="397" y1="320.0" x2="410" y2="320.0" stroke="#232830"/>
+<rect x="221" y="96" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="235" cy="115" r="3" fill="#3DDC97"/>
+<text x="245" y="119" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Node.js</text>
+<text x="235" y="137" class="m" font-size="11" fill="#7D8590">express · rest</text>
+<rect x="221" y="162" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="235" cy="181" r="3" fill="#3DDC97"/>
+<text x="245" y="185" class="s" font-size="14" font-weight="600" fill="#E6EDF3">FastAPI</text>
+<text x="235" y="203" class="m" font-size="11" fill="#7D8590">python · async</text>
+<rect x="221" y="228" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="235" cy="247" r="3" fill="#3DDC97"/>
+<text x="245" y="251" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Auth</text>
+<text x="235" y="269" class="m" font-size="11" fill="#7D8590">jwt · firebase · rbac</text>
+<text x="410" y="82" class="m" font-size="11" fill="#7D8590" letter-spacing="1.5">SERVICES</text>
+<line x1="586" y1="122.0" x2="586" y2="320.0" stroke="#FFB547" stroke-opacity=".55" class="bus"/>
+<line x1="574" y1="122.0" x2="586" y2="122.0" stroke="#232830"/>
+<line x1="574" y1="188.0" x2="586" y2="188.0" stroke="#232830"/>
+<line x1="574" y1="254.0" x2="586" y2="254.0" stroke="#232830"/>
+<line x1="574" y1="320.0" x2="586" y2="320.0" stroke="#232830"/>
+<line x1="586" y1="122.0" x2="599" y2="122.0" stroke="#232830"/>
+<line x1="586" y1="188.0" x2="599" y2="188.0" stroke="#232830"/>
+<line x1="586" y1="254.0" x2="599" y2="254.0" stroke="#232830"/>
+<line x1="586" y1="320.0" x2="599" y2="320.0" stroke="#232830"/>
+<rect x="410" y="96" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="424" cy="115" r="3" fill="#3DDC97"/>
+<text x="434" y="119" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Cloud Functions</text>
+<text x="424" y="137" class="m" font-size="11" fill="#7D8590">firebase · serverless</text>
+<rect x="410" y="162" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="424" cy="181" r="3" fill="#3DDC97"/>
+<text x="434" y="185" class="s" font-size="14" font-weight="600" fill="#E6EDF3">AI / RAG</text>
+<text x="424" y="203" class="m" font-size="11" fill="#7D8590">llm · langchain</text>
+<rect x="410" y="228" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="424" cy="247" r="3" fill="#3DDC97"/>
+<text x="434" y="251" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Automation</text>
+<text x="424" y="269" class="m" font-size="11" fill="#7D8590">n8n · webhooks</text>
+<rect x="410" y="294" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="424" cy="313" r="3" fill="#3DDC97"/>
+<text x="434" y="317" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Multi-tenant</text>
+<text x="424" y="335" class="m" font-size="11" fill="#7D8590">saas architecture</text>
+<text x="599" y="82" class="m" font-size="11" fill="#7D8590" letter-spacing="1.5">DATA</text>
+<line x1="775" y1="122.0" x2="775" y2="320.0" stroke="#FFB547" stroke-opacity=".55" class="bus"/>
+<line x1="763" y1="122.0" x2="775" y2="122.0" stroke="#232830"/>
+<line x1="763" y1="188.0" x2="775" y2="188.0" stroke="#232830"/>
+<line x1="763" y1="254.0" x2="775" y2="254.0" stroke="#232830"/>
+<line x1="763" y1="320.0" x2="775" y2="320.0" stroke="#232830"/>
+<line x1="775" y1="122.0" x2="788" y2="122.0" stroke="#232830"/>
+<line x1="775" y1="188.0" x2="788" y2="188.0" stroke="#232830"/>
+<line x1="775" y1="254.0" x2="788" y2="254.0" stroke="#232830"/>
+<line x1="775" y1="320.0" x2="788" y2="320.0" stroke="#232830"/>
+<rect x="599" y="96" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="613" cy="115" r="3" fill="#3DDC97"/>
+<text x="623" y="119" class="s" font-size="14" font-weight="600" fill="#E6EDF3">PostgreSQL</text>
+<text x="613" y="137" class="m" font-size="11" fill="#7D8590">postgis · supabase</text>
+<rect x="599" y="162" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="613" cy="181" r="3" fill="#3DDC97"/>
+<text x="623" y="185" class="s" font-size="14" font-weight="600" fill="#E6EDF3">MongoDB</text>
+<text x="613" y="203" class="m" font-size="11" fill="#7D8590">document store</text>
+<rect x="599" y="228" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="613" cy="247" r="3" fill="#3DDC97"/>
+<text x="623" y="251" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Redis</text>
+<text x="613" y="269" class="m" font-size="11" fill="#7D8590">cache · queues</text>
+<rect x="599" y="294" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="613" cy="313" r="3" fill="#3DDC97"/>
+<text x="623" y="317" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Firebase</text>
+<text x="613" y="335" class="m" font-size="11" fill="#7D8590">firestore · auth</text>
+<text x="788" y="82" class="m" font-size="11" fill="#7D8590" letter-spacing="1.5">CLOUD</text>
+<rect x="788" y="96" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="802" cy="115" r="3" fill="#3DDC97"/>
+<text x="812" y="119" class="s" font-size="14" font-weight="600" fill="#E6EDF3">AWS</text>
+<text x="802" y="137" class="m" font-size="11" fill="#7D8590">ec2 · deployments</text>
+<rect x="788" y="162" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="802" cy="181" r="3" fill="#3DDC97"/>
+<text x="812" y="185" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Cloudflare</text>
+<text x="802" y="203" class="m" font-size="11" fill="#7D8590">r2 storage · edge</text>
+<rect x="788" y="228" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="802" cy="247" r="3" fill="#3DDC97"/>
+<text x="812" y="251" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Docker</text>
+<text x="802" y="269" class="m" font-size="11" fill="#7D8590">containers · vps</text>
+<rect x="788" y="294" width="164" height="52" rx="9" fill="#12151A" stroke="#232830"/>
+<circle cx="802" cy="313" r="3" fill="#3DDC97"/>
+<text x="812" y="317" class="s" font-size="14" font-weight="600" fill="#E6EDF3">Vercel / HF</text>
+<text x="802" y="335" class="m" font-size="11" fill="#7D8590">hosting</text>
+<line x1="32" y1="388" x2="968" y2="388" stroke="#232830"/>
+<text x="32" y="416" class="m" font-size="12" fill="#7D8590">python · typescript · javascript · dart · sql   —   git · rest apis · clean architecture · system design</text></svg>

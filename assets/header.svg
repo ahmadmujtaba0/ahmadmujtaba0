@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Ahmad Mujtaba — Software Engineer. Backend, web &amp; SaaS, mobile, cloud.">
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+@keyframes blink{50%{opacity:0}}.cur{animation:blink 1s step-end infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}.bus{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}.ty{animation:type .7s steps(18) both}
+@keyframes show{from{opacity:0}to{opacity:1}}.sh{animation:show .2s both}</style>
+<rect x=".5" y=".5" width="999" height="329" rx="14" fill="#0B0D10" stroke="#232830"/>
+<line x1="0" y1="40" x2="1000" y2="40" stroke="#232830"/>
+<circle cx="24" cy="20" r="6" fill="#232830"/>
+<circle cx="44" cy="20" r="6" fill="#232830"/>
+<circle cx="64" cy="20" r="6" fill="#232830"/>
+<text x="500" y="25" text-anchor="middle" class="m" font-size="12" fill="#7D8590">mujtaba</text>
+<text x="46" y="148" class="s" font-size="54" font-weight="700" fill="#E6EDF3" letter-spacing="-1.5">Ahmad Mujtaba</text>
+<text x="48" y="188" class="s" font-size="22" font-weight="500" fill="#FFB547">Software Engineer</text>
+<text x="48" y="222" class="m" font-size="14" fill="#7D8590">backend · web &amp; saas · mobile · cloud</text>
+<circle cx="54" cy="267" r="4" fill="#3DDC97"/><text x="66" y="272" class="m" font-size="13" fill="#7D8590">lahore, pk · remote worldwide · mujtabaa.vercel.app</text>
+<rect x="590" y="64" width="370" height="226" rx="10" fill="#12151A" stroke="#232830"/>
+<text x="612" y="98" class="m ty" font-size="13" style="animation-delay:0.4s"><tspan fill="#FFB547">$</tspan><tspan fill="#E6EDF3"> whoami</tspan></text>
+<text x="612" y="118" class="m sh" font-size="13" fill="#7D8590" style="animation-delay:1.2s">software engineer @ elytra studios</text>
+<text x="612" y="142" class="m ty" font-size="13" style="animation-delay:1.7s"><tspan fill="#FFB547">$</tspan><tspan fill="#E6EDF3"> stack --top</tspan></text>
+<text x="612" y="162" class="m sh" font-size="13" fill="#7D8590" style="animation-delay:2.5s">node · fastapi · next.js · flutter</text>
+<text x="612" y="186" class="m ty" font-size="13" style="animation-delay:3.0s"><tspan fill="#FFB547">$</tspan><tspan fill="#E6EDF3"> deploy --to</tspan></text>
+<text x="612" y="206" class="m sh" font-size="13" fill="#7D8590" style="animation-delay:3.8s">aws ec2 · cloudflare · firebase</text>
+<text x="612" y="230" class="m ty" font-size="13" style="animation-delay:4.3s"><tspan fill="#FFB547">$</tspan><tspan fill="#E6EDF3"> status</tspan></text>
+<text x="612" y="250" class="m sh" font-size="13" fill="#3DDC97" style="animation-delay:5.1s">● open to contract work</text>
+<text x="612" y="274" font-size="13" fill="#FFB547" class="m sh" style="animation-delay:5.6s">$ <tspan class="cur" fill="#E6EDF3">▍</tspan></text></svg>

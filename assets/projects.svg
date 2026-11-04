@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="710" viewBox="0 0 1000 710" role="img" aria-label="Selected work: Peek by PropAR, Coren Clients Dashboard, Resume Screening Pipeline, LawAssistAI, Youth.ai, Insurance Claim Platform.">
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+@keyframes blink{50%{opacity:0}}.cur{animation:blink 1s step-end infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}.bus{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}.ty{animation:type .7s steps(18) both}
+@keyframes show{from{opacity:0}to{opacity:1}}.sh{animation:show .2s both}</style>
+<rect x=".5" y=".5" width="999" height="709" rx="14" fill="#0B0D10" stroke="#232830"/>
+<text x="32" y="44" class="m" font-size="13" fill="#FFB547">// selected work</text>
+<text x="968" y="44" text-anchor="end" class="m" font-size="12" fill="#7D8590">most are client / private repos</text>
+<rect x="32" y="64" width="453" height="190" rx="10" fill="#12151A" stroke="#232830"/>
+<text x="54" y="94" class="m" font-size="11" fill="#FFB547" letter-spacing="1.2">B2B SAAS · AR</text>
+<text x="463" y="94" text-anchor="end" class="m" font-size="11" fill="#7D8590">01</text>
+<text x="54" y="126" class="s" font-size="21" font-weight="700" fill="#E6EDF3">Peek by PropAR</text>
+<text x="54" y="154" class="s" font-size="13.5" fill="#7D8590">AR platform placing 3D property models at GPS-anchored</text>
+<text x="54" y="173" class="s" font-size="13.5" fill="#7D8590">locations. Built the full backend and a multi-tenant admin:</text>
+<text x="54" y="192" class="s" font-size="13.5" fill="#7D8590">RBAC, media uploads, share-link analytics.</text>
+<line x1="54" y1="212" x2="463" y2="212" stroke="#232830"/>
+<text x="54" y="236" class="m" font-size="11.5" fill="#E6EDF3" opacity=".8">node.js / postgis / redis / cloudflare r2 / next.js</text>
+<rect x="515" y="64" width="453" height="190" rx="10" fill="#12151A" stroke="#232830"/>
+<text x="537" y="94" class="m" font-size="11" fill="#FFB547" letter-spacing="1.2">ADMIN · VR TRAINING</text>
+<text x="946" y="94" text-anchor="end" class="m" font-size="11" fill="#7D8590">02</text>
+<text x="537" y="126" class="s" font-size="21" font-weight="700" fill="#E6EDF3">Coren Clients Dashboard</text>
+<text x="537" y="154" class="s" font-size="13.5" fill="#7D8590">Admin for a VR safety-training company: companies, instructors</text>
+<text x="537" y="173" class="s" font-size="13.5" fill="#7D8590">and participants across six first-aid simulators, quiz</text>
+<text x="537" y="192" class="s" font-size="13.5" fill="#7D8590">results, bulk imports, PDF reports.</text>
+<line x1="537" y1="212" x2="946" y2="212" stroke="#232830"/>
+<text x="537" y="236" class="m" font-size="11.5" fill="#E6EDF3" opacity=".8">react / firebase</text>
+<rect x="32" y="276" width="453" height="190" rx="10" fill="#12151A" stroke="#232830"/>
+<text x="54" y="306" class="m" font-size="11" fill="#FFB547" letter-spacing="1.2">AI · AUTOMATION</text>
+<text x="463" y="306" text-anchor="end" class="m" font-size="11" fill="#7D8590">03</text>
+<text x="54" y="338" class="s" font-size="21" font-weight="700" fill="#E6EDF3">Resume Screening Pipeline</text>
+<text x="54" y="366" class="s" font-size="13.5" fill="#7D8590">Reads applications from the HR inbox, scores every resume like</text>
+<text x="54" y="385" class="s" font-size="13.5" fill="#7D8590">a technical recruiter and writes a hiring recommendation to a</text>
+<text x="54" y="404" class="s" font-size="13.5" fill="#7D8590">live candidate database.</text>
+<line x1="54" y1="424" x2="463" y2="424" stroke="#232830"/>
+<text x="54" y="448" class="m" font-size="11.5" fill="#E6EDF3" opacity=".8">n8n / llm / docker / vps</text>
+<rect x="515" y="276" width="453" height="190" rx="10" fill="#12151A" stroke="#232830"/>
+<text x="537" y="306" class="m" font-size="11" fill="#FFB547" letter-spacing="1.2">AI · MOBILE</text>
+<text x="946" y="306" text-anchor="end" class="m" font-size="11" fill="#7D8590">04</text>
+<text x="537" y="338" class="s" font-size="21" font-weight="700" fill="#E6EDF3">LawAssistAI</text>
+<text x="537" y="366" class="s" font-size="13.5" fill="#7D8590">Bilingual (English/Urdu) legal assistant. RAG pipeline with</text>
+<text x="537" y="385" class="s" font-size="13.5" fill="#7D8590">Act/Section citations on every answer, local Phi-3 Mini via</text>
+<text x="537" y="404" class="s" font-size="13.5" fill="#7D8590">Ollama, FastAPI on HF Spaces.</text>
+<line x1="537" y1="424" x2="946" y2="424" stroke="#232830"/>
+<text x="537" y="448" class="m" font-size="11.5" fill="#E6EDF3" opacity=".8">flutter / fastapi / rag / chromadb / firebase</text>
+<rect x="32" y="488" width="453" height="190" rx="10" fill="#12151A" stroke="#232830"/>
+<text x="54" y="518" class="m" font-size="11" fill="#FFB547" letter-spacing="1.2">MOBILE · WHITE-LABEL</text>
+<text x="463" y="518" text-anchor="end" class="m" font-size="11" fill="#7D8590">05</text>
+<text x="54" y="550" class="s" font-size="21" font-weight="700" fill="#E6EDF3">Youth.ai</text>
+<text x="54" y="578" class="s" font-size="13.5" fill="#7D8590">Multi-flavor Flutter architecture shipping 10+ branded</text>
+<text x="54" y="597" class="s" font-size="13.5" fill="#7D8590">iOS/Android health apps from one codebase, with AI biometric</text>
+<text x="54" y="616" class="s" font-size="13.5" fill="#7D8590">screening SDKs (face, voice, skin).</text>
+<line x1="54" y1="636" x2="463" y2="636" stroke="#232830"/>
+<text x="54" y="660" class="m" font-size="11.5" fill="#E6EDF3" opacity=".8">flutter / firebase / ai sdks</text>
+<rect x="515" y="488" width="453" height="190" rx="10" fill="#12151A" stroke="#232830"/>
+<text x="537" y="518" class="m" font-size="11" fill="#FFB547" letter-spacing="1.2">MOBILE + WEB + ADMIN</text>
+<text x="946" y="518" text-anchor="end" class="m" font-size="11" fill="#7D8590">06</text>
+<text x="537" y="550" class="s" font-size="21" font-weight="700" fill="#E6EDF3">Insurance Claim Platform</text>
+<text x="537" y="578" class="s" font-size="13.5" fill="#7D8590">End-to-end claims product: a Flutter app for policyholders, a</text>
+<text x="537" y="597" class="s" font-size="13.5" fill="#7D8590">web portal, and an admin dashboard for claim review.</text>
+<line x1="537" y1="636" x2="946" y2="636" stroke="#232830"/>
+<text x="537" y="660" class="m" font-size="11.5" fill="#E6EDF3" opacity=".8">flutter / typescript / react / rest apis</text></svg>
