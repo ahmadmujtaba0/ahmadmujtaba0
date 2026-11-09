@@ -2,6 +2,14 @@
 
 <br/>
 
+<a href="https://mujtabaa.vercel.app"><img src="assets/preview.webp" width="100%" alt="Live preview of mujtabaa.vercel.app: the hero's particle drawings forming, a curtain transition to Selected Work, project cards sliding, then Contact." /></a>
+
+<p align="center">
+  <a href="https://mujtabaa.vercel.app"><img src="assets/open-site.svg" height="56" alt="Open the live site: mujtabaa.vercel.app" /></a>
+</p>
+
+<br/>
+
 <img src="assets/system.svg" width="100%" alt="How I build: Flutter, Next.js and React clients; Node.js and FastAPI APIs; Cloud Functions, AI/RAG, n8n automation and multi-tenant SaaS services; PostgreSQL, MongoDB, Redis and Firebase data; AWS, Cloudflare R2, Docker and Vercel infrastructure." />
 
 <br/>

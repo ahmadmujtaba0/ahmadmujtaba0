@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="56" viewBox="0 0 300 56" role="img" aria-label="Open the live site: mujtabaa.vercel.app">
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@keyframes pulse{0%{r:4;opacity:1}70%{r:11;opacity:0}100%{r:11;opacity:0}}.ring{animation:pulse 1.8s ease-out infinite}</style>
+<rect x=".5" y=".5" width="299" height="55" rx="28" fill="#FFB547"/>
+<circle class="ring" cx="34" cy="28" r="4" fill="none" stroke="#0B0D10" stroke-width="1.5"/>
+<circle cx="34" cy="28" r="4" fill="#0B0D10"/>
+<text x="52" y="33" class="m" font-size="15" font-weight="700" fill="#0B0D10">Open the live site ↗</text>
+</svg>
